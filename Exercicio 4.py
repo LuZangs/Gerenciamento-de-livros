@@ -1,5 +1,5 @@
 # Mensagem de boas-vindas
-print("Bem-vindo ao sistema de gerenciamento de livros da livraria Luis Fernando duarte.")
+print("Bem-vindo ao sistema de gerenciamento de livros da livraria.")
 # Inicialização das variáveis
 lista_livro = []
 id_global = 0
